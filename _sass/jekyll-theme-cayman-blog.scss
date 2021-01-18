@@ -401,8 +401,8 @@ a {
 }
 
 .site-footer-credits {
+  font-size: 0.1rem;
   display: block;
-  font-size: 6px;
   color: $blockquote-text-color;
 }
 
@@ -472,4 +472,9 @@ a {
 
   } // social-icons
 
+}
+
+.span-div-space
+{
+   margin-top:10px;
 }
